@@ -1,0 +1,7 @@
+E001, Diana Chen, CEO
+E002, Alan Park, CTO
+E003, Sarah Mills, CFO
+E004, John Smith, Senior Dev
+E005, Kate Brown, Junior Dev
+E006, Mike Davis, Analyst
+E007, Micheale Olive, Analyst
